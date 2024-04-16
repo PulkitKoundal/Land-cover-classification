@@ -19,5 +19,5 @@ This repository contains Python code for land cover classification using machine
    Utilizes Matplotlib for 3D visualization of hyperparameter tuning results.
 
 # <span style="font-size:larger;">Results:</span>
-The Random Forest classifier achieved an accuracy of %, while KNN achieved an accuracy of %. Detailed classification reports and hyperparameter tuning results are provided in the code output.
+The Random Forest classifier achieved an accuracy of 89.00%, while KNN achieved an accuracy of 87.089%. Detailed classification reports and hyperparameter tuning results are provided in the code output.
 
